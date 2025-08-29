@@ -40,10 +40,4 @@
 
 ---
 
-## 📌 Featured Projects
-- 📱 **Historical Artifact Recognition App** – Deep learning-based historical artifact recognition  
-- 💰 **Income Expense Tracker** – Personal finance tracker with Kotlin (Android) + Spring Boot (Backend)  
-- ⚽ **Sports Stats App** – Football statistics and fixtures application  
-
----
 
