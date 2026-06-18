@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Umut Gülden  
 
-💻 Backend & Android Developer  
+💻 Backend Developer  
 🎓 Computer Engineer | Gazi University  
 
 ---
