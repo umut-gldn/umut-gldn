@@ -17,7 +17,7 @@
 
 | | Project | What's interesting about it |
 |---|---|---|
-| 🟢 | **Hırdavat Takip** <sub>(private)</sub> | Multi-tenant SaaS, ledger-based stock, two cash registers can't corrupt a total. React + Spring Boot, deployed with Docker/Caddy, ~100 tests. |
+| 🟢 | **Hırdavat Takip** · [Live →](https://hirdavat.duckdns.org) <sub>(private repo)</sub> | Multi-tenant SaaS, ledger-based stock, two cash registers can't corrupt a total. React + Spring Boot, deployed with Docker/Caddy, ~100 tests. |
 | 💸 | [**wallet-api**](https://github.com/umut-gldn/wallet-api) | Every design decision starts with a failing test: ledger, locking, idempotent transfers, JWT, CI. |
 | 🚚 | [**arac-takip**](https://github.com/umut-gldn/arac-takip) | Vehicles drive along real roads and send events through Kafka. Eureka, Gateway, Feign. |
 | 🍔 | [**online-order-microservices**](https://github.com/umut-gldn/online-order-microservices) | 8 services with Config Server, RabbitMQ, Redis and JWT at the gateway |
