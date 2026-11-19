@@ -1,43 +1,34 @@
-# 👋 Hi, I'm Umut Gülden  
-
-💻 Backend Developer  
-🎓 Computer Engineer | Gazi University  
-
----
-
-## 👤 About Me
-- Curious and passionate about technology, always eager to learn new things  
-- Strong background in mobile and backend development through projects and internships  
-- Skilled at problem solving, taking responsibility, and working effectively in a team  
-- Currently focusing on improving Java expertise while exploring scalable systems and real-time applications  
-
----
-
-## 🚀 Tech Stack
-
-### ⚙️ Backend  
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=rest&logoColor=white" />
-</p>
-
-### 📱 Mobile  
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-</p>
-
-### ☁️ DevOps & Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />
+<h1 align="center">Hi, I'm Umut 👋</h1>
+<p align="center">
+  Backend developer from Konya who likes building things that actually run in production.<br/>
+  Java · Spring Boot · PostgreSQL · a bit of React
 </p>
 
 ---
 
+### 🔭 What I'm up to
 
+- 🛠️ Building **Hırdavat Takip**, a point-of-sale & stock SaaS for hardware stores. It's **live** and a real store uses it every day.
+- 💸 Breaking and fixing money-transfer code in **wallet-api**: race conditions, double transfers, idempotency
+- 🏥 Previously wrote claims-management microservices for a health insurance platform at MediSA
+- 📚 Learning: event-driven systems, observability, getting better at frontend
+
+### 🧰 Projects I'm proud of
+
+| | Project | What's interesting about it |
+|---|---|---|
+| 🟢 | **Hırdavat Takip** <sub>(private)</sub> | Multi-tenant SaaS, ledger-based stock, two cash registers can't corrupt a total. React + Spring Boot, deployed with Docker/Caddy, ~100 tests. |
+| 💸 | [**wallet-api**](https://github.com/umut-gldn/wallet-api) | Every design decision starts with a failing test: ledger, locking, idempotent transfers, JWT, CI. |
+| 🚚 | [**arac-takip**](https://github.com/umut-gldn/arac-takip) | Vehicles drive along real roads and send events through Kafka. Eureka, Gateway, Feign. |
+| 🍔 | [**online-order-microservices**](https://github.com/umut-gldn/online-order-microservices) | 8 services with Config Server, RabbitMQ, Redis and JWT at the gateway |
+
+### 🛠️ Tools I reach for
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,react,ts,kafka,rabbitmq,redis,docker,githubactions,aws,kotlin&perline=12" />
+</p>
+
+### 📫 Say hi
+
+<a href="https://linkedin.com/in/umut-gulden"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:umutgulden33@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
